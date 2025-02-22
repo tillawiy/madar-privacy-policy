@@ -1,4 +1,3 @@
-[شروط الخدمة - Terms of Service](/terms)
 
 ---
 layout: default
@@ -7,6 +6,7 @@ title: سياسة الخصوصية - Privacy Policy
 
 # سياسة الخصوصية - Privacy Policy
 
+[شروط الخدمة - Terms of Service](/terms)
 
 ## عربي 🇸🇦
 
