@@ -1,3 +1,5 @@
+[شروط الخدمة - Terms of Service](/terms)
+
 ---
 layout: default
 title: سياسة الخصوصية - Privacy Policy
